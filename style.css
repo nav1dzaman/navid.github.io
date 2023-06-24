@@ -1,0 +1,37 @@
+.main-page{
+  margin-top: -150px;
+  position:relative;
+  
+}
+body{
+    text-align: center;
+    margin:0 auto;
+    font-family: 'Secular One',serif;
+    background-color: aquamarine;
+    
+}
+
+.cloud{
+    height: 260px;
+    position:relative;
+    top: 160px;
+}
+
+
+
+
+.mntn{
+    height: 300px;
+    position: relative;
+   
+}
+h1{
+    font-size: xx-large;
+}
+p{
+    font-size: larger;
+}
+.icons{
+    height: 50px;
+    padding: 5px;
+}
